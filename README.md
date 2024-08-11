@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MaratKarsanov" target="_blank">Marat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, a beginner .NET programmer</h3>
-<div>[![trophy](https://github-profile-trophy.vercel.app/?username=MaratKarsanov)](https://github.com/ryo-ma/github-profile-trophy)</div>
+<img src="[https://github-profile-trophy.vercel.app/?username=MaratKarsanov"](https://github-profile-trophy.vercel.app/?username=MaratKarsanov))>
+<!--<div>[![trophy](https://github-profile-trophy.vercel.app/?username=MaratKarsanov)](https://github.com/ryo-ma/github-profile-trophy)</div>-->
 <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaratKarsanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!div>
 <img src="https://github-profile-trophy.vercel.app/?username=MaratKarsanov">
 
