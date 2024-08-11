@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, a beginner .NET programmer</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaratKarsanov)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MaratKarsanov/MaratKarsanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
