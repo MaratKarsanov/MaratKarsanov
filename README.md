@@ -4,7 +4,7 @@
 <div>- 🔭 Цель: стать крутым .NET разработчиком</div>
 <div>- 🌱 Мое резюме <a href="https://drive.google.com/file/d/1-ECBWIJJG1U2LRodiqKX-5Y1rRpxj88v/view?usp=sharing">тут</a></div>
 <div>- 💬 Почта: marat.karsanov@mail.ru</div>
-<div>- 🤔Немного статистики:</div>
+<div>- 🤔 Немного статистики:</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MaratKarsanov"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratKarsanov"/>
