@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MaratKarsanov" target="_blank">Marat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, a beginner .NET programmer</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaratKarsanov" height="32"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaratKarsanov" />
 
 <!--
 **MaratKarsanov/MaratKarsanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
