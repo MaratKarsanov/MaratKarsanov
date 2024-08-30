@@ -6,8 +6,8 @@
 <div>- 💬 Почта: marat.karsanov@mail.ru</div>
 <div>- 🤔 Немного статистики:</div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaratKarsanov"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratKarsanov"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaratKarsanov"/>
 </div>
 
 <!--
