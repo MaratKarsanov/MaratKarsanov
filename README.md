@@ -5,7 +5,7 @@
 <div>- 🌱 Мое резюме <a href="https://drive.google.com/file/d/12W9LlDgTAzxDck0rFLE-_P5gwUiwnYWE/view">тут</a></div>
 <div>- 💬 Почта: marat.karsanov@mail.ru</div>
 <div>- 🤔 Немного статистики:</div>
-<div style="margin-top:10;">
+<div style="margin-top:100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratKarsanov"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MaratKarsanov"/>
 </div>
