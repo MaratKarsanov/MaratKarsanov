@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, a beginner .NET programmer</h3>
 <div>- 🔭 Цель: стать крутым .NET разработчиком</div>
-<div>- 🌱 Мое резюме <a href="https://drive.google.com/drive/folders/1cu13sVWrp5LOw-jgW-lJctIGKWue85_T">тут</a></div>
+<div>- 🌱 Мое резюме <a href="https://drive.google.com/file/d/1XF3-PVq2rSQ0PwyGnqY5ISA1jc7rbwLN/view?usp=sharing">тут</a></div>
 <div>- 💬 Почта: marat.karsanov@mail.ru</div>
 <div>- 🤔 Немного статистики:</div>
 <br>
